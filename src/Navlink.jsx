@@ -28,10 +28,10 @@ function Navlink() {
                       <NavLink className="nav-link" activeClassName="menu_active" aria-current="page" to="/">Home</NavLink>
                     </li>
                     <li className="nav-item">
-                      <NavLink className="nav-link" activeClassName="menu_active" to="/about">About</NavLink>
+                      <NavLink className="nav-link" activeClassName="menu_active" to="/service">Service</NavLink>
                     </li>
                     <li className="nav-item">
-                      <NavLink className="nav-link" activeClassName="menu_active" to="/service">Service</NavLink>
+                      <NavLink className="nav-link" activeClassName="menu_active" to="/about">About</NavLink>
                     </li>
                     <li className="nav-item">
                       <NavLink className="nav-link" activeClassName="menu_active" to="/contact">Contact</NavLink>
